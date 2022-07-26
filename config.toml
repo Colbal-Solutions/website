@@ -1,4 +1,4 @@
 baseURL = 'https://colbal.com/'
 languageCode = 'en-us'
 title = 'Colbal'
-theme = "ananke"
+theme = "hugo-hero-theme"
