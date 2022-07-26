@@ -1,0 +1,4 @@
+baseURL = 'https://colbal.com/'
+languageCode = 'en-us'
+title = 'Colbal'
+theme = "ananke"
