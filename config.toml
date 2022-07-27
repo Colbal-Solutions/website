@@ -5,7 +5,7 @@ theme = 'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -17,9 +17,9 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = "/resources/_gen/images/favicon/favicon.ico"
-  site_logo = "/resources/_gen/images/logo/idea1-outline.jpg"
-  description = "Dynamic Solutions"
+  favicon = "/images/favicon/favicon.ico"
+  site_logo = "/images/logo/colbal-site-logo_108x123.png"
+  description = "Dynamic Technology and Business Solutions"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  background_color_class = "bg-navy"
+  recent_posts_number = 1
