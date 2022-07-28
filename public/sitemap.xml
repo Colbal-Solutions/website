@@ -18,7 +18,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://colbal.com/</loc>
-    <lastmod>2022-07-27T08:53:35-07:00</lastmod>
+    <lastmod>2022-07-27T15:46:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/posts/2022/open-source-vs-close-source/</loc>
+    <lastmod>2022-07-27T15:46:52-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
