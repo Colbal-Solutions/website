@@ -18,3 +18,7 @@ We not only provides solutions but we ensure that those solutions fit your busin
 Want to use the new technological fad but not sure if it fits. We can help with that too. To be honest, we are a bunch of research geeks and technology is our poison. If you have heard of it, we have a solution example. Google is great but Colbal is better as we sift through all the misinformation that plagues the world.
 
 >"VR is the new best thing for business!" &nbsp;&nbsp;&nbsp; Your selling handmade crafts on Etsy...let's see if VR can increase revenue. 
+
+## Cloud Migration
+
+Would you like to move to a hybrid or cloud model? Let us do the heavy lifting and find which cloud model is best for you and your business.
