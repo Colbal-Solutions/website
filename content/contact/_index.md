@@ -6,4 +6,4 @@ weight: 3
 
 ## You can contact us here!
 
-{{< form >}}
+{{< contact_us_form >}}
