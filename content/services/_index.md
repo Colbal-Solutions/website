@@ -11,7 +11,7 @@ As consultants we are hired to do many things. These could include custom softwa
 
 ## Process Improvement
 
-We not only provides solutions but we ensure that those solutions fit your business. We believe in the process improvement model not the process replacement model. We work with you to mold solutions that actually help. When an idea falls short (eventually one will) that's where we shine. 
+We believe in the process improvement model not the process replacement model. Meaning we not only provide solutions but we ensure that those solutions fit your business need. We work with you to mold solutions that actually help. When an idea falls short (eventually one will) that's where we shine. 
 
 ## Technology Research and Navigation
 
