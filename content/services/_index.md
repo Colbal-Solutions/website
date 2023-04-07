@@ -5,6 +5,10 @@ weight: 1
 ---
 [This is the main page of about us.]: # 
 
+## Web Design
+
+First and foremost, we are here to support our clients with a shiny new Website. Now there are many ways we can help in this area, from creating a new site from scratch and maintaining it for you, to teaching you how to build and maintain your own site. our goal is to help you in whatever capacity we can and we have an array of options and prices to suit your needs. 
+
 ## Consulting
 
 As consultants we are hired to do many things. These could include custom software development, infrastructure planning, security analysis, and risk assessment. We also advise on the strategic or financial sides of technology and software, such as how to invest in cost-efficient systems or how to integrate new software.
