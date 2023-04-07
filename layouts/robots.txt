@@ -1,6 +1,6 @@
 User-agent: *
 
-Allow: /
+allow: /
 
 # robotstxt.org - if ENV production variable is false robots will be disallowed.
 
