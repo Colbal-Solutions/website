@@ -23,12 +23,6 @@ Want to use the new technological fad but not sure if it fits. We can help with 
 
 >"VR is the new best thing for business!" &nbsp;&nbsp;&nbsp; Your selling handmade crafts on Etsy...let's see if VR can increase revenue. 
 
-<<<<<<< HEAD
 [comment]:#(## Cloud Migration
 
 Would you like to move to a hybrid or cloud model? Let us do the heavy lifting and find which cloud model is best for you and your business.)
-=======
-## Cloud Migration
-
-Would you like to move to a hybrid or cloud model? Let us do the heavy lifting and find which cloud model is best for you and your business.
->>>>>>> 6961b4793af50150a923a231d151e308290f7aa9
