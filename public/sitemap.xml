@@ -12,13 +12,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://colbal.com/contact/</loc>
+    <lastmod>2022-07-29T09:17:51-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://colbal.com/posts/</loc>
     <lastmod>2022-07-27T08:53:35-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://colbal.com/bugtracker/</loc>
+    <lastmod>2022-12-28T14:47:51-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://colbal.com/</loc>
-    <lastmod>2022-07-27T15:46:52-07:00</lastmod>
+    <lastmod>2022-12-28T14:47:51-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
