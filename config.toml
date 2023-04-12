@@ -1,6 +1,7 @@
 baseURL = 'https://colbal.com/'
 languageCode = 'en-us'
-title = 'Small Business Technology Consultant'
+title = 'Colbal'
+subtitle = 'Small Business Technology Consultant'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
