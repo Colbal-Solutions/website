@@ -22,4 +22,4 @@ enableRobotsTXT = true
   description = "Providing technology consulting to new and existing small businesses through web design, software improvements, data management and information security. "
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-navy"
-  recent_posts_number = 1
+  recent_posts_number = 3
