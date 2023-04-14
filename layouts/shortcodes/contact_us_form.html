@@ -1,28 +1,58 @@
 <style>
+   
+    .contact-container{
+        max-width: 100%;
+        margin: auto;
+        display: flex;
+       
+
+    }
+    .contact-col-1{
+        width: 75%;
+        display: block;
+        justify-content: left;
+        flex-direction: column;
+    }
+    .contact-col-2{
+        width: 25%;
+        display: block;
+        justify-content: left;
+        flex-direction: column;
+    }
     textarea {
         width: 100%;
         height: 150px;
         padding: 12px 20px;
         box-sizing: border-box;
-        border: 2px solid #ccc;
+        border: 2px solid #aaa;
         border-radius: 4px;
-        background-color: #f8f8f8;
+        
         font-size: 16px;
         resize: none;
       }
+      button{
+        background-color: #00309D;
+        border: none;
+        color: #fff;
+        font-size: 1em;
+        padding: 10px 50px;
+        text-transform: uppercase;
+        font-weight: normal;
+    }
 </style>
-
+<div class="contact-container">
+<div class="contact-col-1">
+    <p class="contact-headline"> <h3>Get in touch</h3> </p>
 <form name="contact" method="POST" data-netlify="true">
     <p>
-      <label>Your Name: <input type="text" name="name" /></label>
+      <label>Name: <input type="text" name="name" /></label>
     </p>
     <p>
-      <label>Your Email: <input type="email" name="email" /></label>
+      <label>Email: <input type="email" name="email" /></label>
     </p>
     <p>
         <label>Company: <input type="text"/></label>
       </p>
-   
     <p>
       <label>What can we help you with? </label><br><textarea name="message"></textarea>
     </p>
@@ -30,3 +60,13 @@
       <button type="submit">Send</button>
     </p>
   </form>
+</div>
+<div class="contact-col-2">
+<p class="contact-headline"> <h5>Connect with us:</h5>
+
+  <small> Email us at: <a href="mailto:contact-us@colbal.com">contact-us@colbal.com</a></small> <small>Phone: <a href="tel:16038510727">603-851-0727</a></small>
+
+</p>
+</div>
+
+</div>
