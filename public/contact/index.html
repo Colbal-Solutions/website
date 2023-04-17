@@ -46,6 +46,7 @@
 <meta name="twitter:description" content="Providing technology consulting to new and existing small businesses through web design, software improvements, data management and information security. "/>
 
 	
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -76,12 +77,6 @@
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/about/" title="About page">
-              About
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/contact/" title="Contact us page">
               Contact us
             </a>
@@ -90,6 +85,12 @@
           <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/posts/" title="Articles page">
               Articles
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
             </a>
           </li>
           
@@ -119,7 +120,6 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><style>
    
     .contact-container{
-        max-width: 100%;
         margin: auto;
         display: flex;
        
@@ -137,6 +137,9 @@
         justify-content: left;
         flex-direction: column;
     }
+    input{
+    width: 50%;
+    }
     textarea {
         width: 100%;
         height: 150px;
@@ -144,7 +147,6 @@
         box-sizing: border-box;
         border: 2px solid #aaa;
         border-radius: 4px;
-        
         font-size: 16px;
         resize: none;
       }
@@ -205,6 +207,18 @@
 </div>
 </div>
   </div>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </footer>
 
   </body>

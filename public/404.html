@@ -41,6 +41,7 @@
 <meta name="twitter:description" content="Providing technology consulting to new and existing small businesses through web design, software improvements, data management and information security. "/>
 
 	
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -69,12 +70,6 @@
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/about/" title="About page">
-              About
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/contact/" title="Contact us page">
               Contact us
             </a>
@@ -83,6 +78,12 @@
           <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/posts/" title="Articles page">
               Articles
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
             </a>
           </li>
           
@@ -121,6 +122,18 @@
 </div>
 </div>
   </div>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </footer>
 
   </body>

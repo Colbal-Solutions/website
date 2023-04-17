@@ -7,11 +7,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/about/</loc>
-    <lastmod>2022-07-26T16:28:41-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://colbal.com/contact/</loc>
     <lastmod>2022-07-29T09:17:51-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -19,6 +14,11 @@
   </url><url>
     <loc>https://colbal.com/posts/</loc>
     <lastmod>2022-07-27T08:53:35-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/about/</loc>
+    <lastmod>2022-07-26T16:28:41-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
