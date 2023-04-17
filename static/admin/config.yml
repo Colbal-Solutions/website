@@ -37,7 +37,7 @@ collections:
                   { label: "Text", name: "text", widget: "text" },
                 ],
             }
-      - file: "content/about/index.md"
+      - file: "content/about/_index.md"
         label: "About"
         name: "about"
         fields:
