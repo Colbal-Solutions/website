@@ -1,7 +1,12 @@
 <header class="site-header">
+  
   <nav class="site-nav">
     <a class="logo" href="{{ .Site.BaseURL }}">
-      {{ .Site.Title }}
+      {{ with .Site.Params.site_logo }}
+        <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+      {{ else }}
+        {{ .Site.Title }}
+      {{ end }}
     </a>
     <ul class="main-menu">
       {{ range.Site.Menus.main }}

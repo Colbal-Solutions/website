@@ -1,7 +1,7 @@
 baseURL = 'https://colbal.com/'
 languageCode = 'en-us'
-title = 'Colbal | Small Business Technology Consultant | '
-theme = 'ananke' #'colbal'
+title = 'Colbal | Small Business Technology Consultant  '
+theme = 'colbal' #'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
