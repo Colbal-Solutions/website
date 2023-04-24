@@ -1,6 +1,7 @@
 <header class="site-header">
   
   <nav class="site-nav">
+    <!-- logo area start -->
     <a class="logo" href="{{ .Site.BaseURL }}">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
@@ -8,6 +9,8 @@
         {{ .Site.Title }}
       {{ end }}
     </a>
+    <!-- logo area end -->
+    <!-- menu start -->
     <ul class="main-menu">
       {{ range.Site.Menus.main }}
       <li>
@@ -15,5 +18,6 @@
       </li>
       {{ end }}
     </ul>
+    <!-- menu end -->
   </nav>
 </header>
