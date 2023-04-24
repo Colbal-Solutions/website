@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "nav.html" . }}
+    <hr>
+    {{ block "page-header" . }}
+    {{ end }}
+  <br>
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+  <br>
+    {{ block "page-footer" . }}
+    {{ end }}
+    <hr>
+    {{ partial "footer.html" . }}
+  </body>
+</html>
