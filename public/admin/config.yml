@@ -26,7 +26,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "SEO Description", name: "description", widget: "text"}
-          - { label: "Blurb", name: "blurb", widget: "text" }
+          - {label: "Body", name: "body", widget: "markdown"}
           - {
               label: "Section",
               name: "section",
@@ -37,7 +37,7 @@ collections:
                   { label: "Text", name: "text", widget: "text" },
                 ],
             }
-      - file: "content/about/index.md"
+      - file: "content/about/_index.md"
         label: "About"
         name: "about"
         fields:
@@ -57,7 +57,6 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "SEO Description", name: "description", widget: "text"}
-          - { label: "Blurb", name: "blurb", widget: "text" }
           - {
               label: "Section",
               name: "section",

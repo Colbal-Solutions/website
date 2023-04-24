@@ -5,6 +5,7 @@ weight: 1
 description: "We provide a wide range of services that include web design, cloud migrations, general technology consulting and process improvements"
 
 ---
+{{< services >}}
 
 ## Web Design
 
