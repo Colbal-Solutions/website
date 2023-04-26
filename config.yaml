@@ -1,12 +1,30 @@
 baseURL: 'https://colbal.com/'
 languageCode: en-us
 title: 'Colbal | Small Business Technology Consultant  '
-theme: 'ananke' # 'colbal' 
+theme: 'ananke' #'colbal'  
+
+### start comment out for 'ananke' theme
 
 # menu:
 #   main:
 #   - identifier: services
 #     name: Services
+#     pageRef: /services
+#     weight: 10
+#   - name: Contact us
+#     pageRef: /contact
+#     weight: 20
+#   - name: Articles
+#     pageRef: /posts
+#     weight: 30
+#   - name: About
+#     pageRef: /about
+#     weight: 40
+#   - name: FAQ
+#     pageRef: /fag
+#     weight: 50
+
+### end comment out
 
 DefaultContentLanguage: "en"
 # sectionPagesMenu: main
