@@ -1,36 +1,25 @@
 baseURL: 'https://colbal.com/'
 languageCode: en-us
 title: 'Colbal | Small Business Technology Consultant  '
-theme: 'colbal' #'ananke'
+theme: 'ananke' # 'colbal' 
 
-menu:
-  main:
-  - name: Home
-    url: /
-    weight: 10
-  - name: About
-    url: /about
-    weight: 20
-  - name: GitHub
-    url: https://www.github.com
-    weight: 90
-  
-  - name: Google
-    url: https://www.google.com
-    weight: 100
+# menu:
+#   main:
+#   - identifier: services
+#     name: Services
 
 DefaultContentLanguage: "en"
-SectionPagesMenu: "main"
-# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# sectionPagesMenu: main
+# Paginate: 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics: ""
 enableRobotsTXT: true
 
-[sitemap]
+sitemap:
   changefreq: "monthly"
-  priority: 0.5
+  priority: 0.5 
   filename: "sitemap.xml"
 
-[params]
+params:
   text_color: ""
   author: ""
   favicon: "/images/favicon/favicon.ico"
