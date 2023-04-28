@@ -30,4 +30,4 @@ No page limit, always a mobile responsive site (unless you don’t want that), b
 For e-commerce we suggest using Shopify. In our opinion they have the best all around tools for online stores. Anyone selling your less, is selling you short.
 
 ## What about blogs?
-For us, blogs alone are considered one page sites. The reason for this is because it’s a page of other pages linked to it. We can definitely build a blog site out for you but we recommend you check out our article [Discover the Secret to Launching Your Own Blog on a Budget: Github, Netlify and Hugo](https://www.colbal.com/posts/discover-the-secret-to-launching-your-own-blog-on-a-budget-github-netlify-and-hugo/).  
+For us, blogs alone are considered one page sites. The reason for this is because it’s a page of other pages linked to it. We can definitely build a blog site out for you. We recommend checking out our article [Discover the Secret to Launching Your Own Blog on a Budget: Github, Netlify and Hugo](https://www.colbal.com/posts/discover-the-secret-to-launching-your-own-blog-on-a-budget-github-netlify-and-hugo/) for a overview if you are a DIY'er.  
