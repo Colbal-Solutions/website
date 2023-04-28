@@ -6,6 +6,8 @@ draft: false
 ---
 <u>Navigate the article:</u>
 
+<sub>
+
 [1. Introduction](#1-introduction)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The tech, an explanation of Github, Hugo and Netlify](#the-tech-an-explanation-of-github-hugo-and-netlify)
@@ -33,7 +35,7 @@ draft: false
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Recap of cost and benefits of hosting a Hugo blog on Netlify](#recap-of-cost-and-benefits-of-hosting-a-hugo-blog-on-netlify)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Final thoughts and recommendations](#final-thoughts-and-recommendations)
-
+</sub>
 # 1. Introduction
 
 ## The tech, an explanation of Github, Hugo and Netlify
