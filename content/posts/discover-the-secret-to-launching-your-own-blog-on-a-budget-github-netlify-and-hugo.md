@@ -5,7 +5,6 @@ author: 'Charles'
 draft: false
 ---
 <h6>
-<u>Navigate the article:</u>
 
 [1. Introduction](#1-introduction)
 
