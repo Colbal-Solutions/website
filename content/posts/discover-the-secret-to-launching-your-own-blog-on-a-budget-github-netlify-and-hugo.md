@@ -36,6 +36,7 @@ draft: false
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Final thoughts and recommendations](#final-thoughts-and-recommendations)
 </sub></h6>
+
 # 1. Introduction
 
 ## The tech, an explanation of Github, Hugo and Netlify
