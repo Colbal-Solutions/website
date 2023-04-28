@@ -4,38 +4,18 @@ date: 2023-04-28T10:48:00-07:00
 author: 'Charles'
 draft: false
 ---
+<h6>
 <u>Navigate the article:</u>
-
-<sub><h6>
 
 [1. Introduction](#1-introduction)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The tech, an explanation of Github, Hugo and Netlify](#the-tech-an-explanation-of-github-hugo-and-netlify)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Overview of the cost to host a blog on Netlify with Hugo](#overview-of-the-cost-to-host-a-blog-on-netlify-using-hugo)
-
 [2. The Details](#2-the-details)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What is Github?](#what-is-github)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What is Hugo?](#what-is-hugo)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What is Netlify?](#what-is-netlify)
 
 [3. Implementing](#3-implementing)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How to host a Hugo Blog on Netlify](#how-to-host-a-hugo-blog-on-netlify)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cost of hosting a Hugo blog on Netlify](#cost-of-hosting-a-hugo-blog-on-netlify)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Benefits of hosting a blog on Netlify with Hugo](#benefits-of-hosting-a-blog-on-netlify-with-hugo)
-
 [4. Conclusion, TLDR](#4-conclusion)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Recap of cost and benefits of hosting a Hugo blog on Netlify](#recap-of-cost-and-benefits-of-hosting-a-hugo-blog-on-netlify)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Final thoughts and recommendations](#final-thoughts-and-recommendations)
-</sub></h6>
+</h6>
 
 # 1. Introduction
 
