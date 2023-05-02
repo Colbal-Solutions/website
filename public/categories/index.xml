@@ -5,6 +5,25 @@
     <link>https://colbal.com/categories/</link>
     <description>Recent content in Categories on Colbal | Small Business Technology Consultant  </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://colbal.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2023 10:48:00 -0700</lastBuildDate><atom:link href="https://colbal.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>stuff</title>
+      <link>https://colbal.com/categories/stuff/</link>
+      <pubDate>Fri, 28 Apr 2023 10:48:00 -0700</pubDate>
+      
+      <guid>https://colbal.com/categories/stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mission</title>
+      <link>https://colbal.com/categories/mission/</link>
+      <pubDate>Wed, 27 Jul 2022 15:46:52 -0700</pubDate>
+      
+      <guid>https://colbal.com/categories/mission/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
