@@ -1,7 +1,8 @@
 baseURL: 'https://colbal.com/'
 languageCode: en-us
 title: 'Colbal | Small Business Technology Consultant  '
-theme: 'ananke' #'colbal' 
+theme: 'ananke'
+#theme: 'colbal' 
 
 ### start comment out for 'ananke' theme
 
@@ -21,7 +22,7 @@ theme: 'ananke' #'colbal'
 #     pageRef: /about
 #     weight: 40
 #   - name: FAQ
-#     pageRef: /fag
+#     pageRef: /faq
 #     weight: 50
 
 ### end comment out

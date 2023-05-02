@@ -9,4 +9,3 @@ layout: "home"
 ---
 Welcome to Colbal. We are your technology consults. Providing technology consulting to new and existing small businesses through web design, software improvements, data management, information security, and more. 
 
-
