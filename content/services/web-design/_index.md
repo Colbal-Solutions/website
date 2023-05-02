@@ -1,9 +1,9 @@
 ---
 ### comment out menu for 'ananke' theme
-# menu:
-#     main:
-#         parent: services
-#         weight: 10
+menu:
+    main:
+        parent: services
+        weight: 10
 
 title: Web Design
 date: 2023-04-24T09:34:48-07:00
