@@ -2,7 +2,7 @@
 title: "Open Source vs Close Source"
 author: 'Charles'
 date: 2022-07-27T15:46:52-07:00
-tags: rant, why we do what we do
+tags: "rant", "why we do what we do"
 ---
 
 My take on the situation. 
