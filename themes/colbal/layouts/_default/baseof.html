@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html>
-  {{ partial "head.html" . }}
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
   <body>
+    <div class="container-xl">
     {{ partial "nav.html" . }}
-    <hr>
+    <hr> <!-- TODO remove hr tag -->
     {{ block "page-header" . }}
     {{ end }}
   <br>
@@ -11,10 +14,19 @@
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
+    <div class="row">
+      <div class="col-4 p-5 bg-primary text-light">
+        
+      </div>
+      <div class="col-4 p-5 bg-secondary text-light"></div>
+      <div class="col-4 p-5 bg-warning text-light"></div>
+    </div>
   <br>
     {{ block "page-footer" . }}
     {{ end }}
-    <hr>
+    <hr> <!-- TODO remove hr tag -->
     {{ partial "footer.html" . }}
+   
+  </div>
   </body>
 </html>
