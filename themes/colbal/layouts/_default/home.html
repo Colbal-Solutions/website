@@ -3,10 +3,27 @@
     {{ .Content }}
 
     <div class="row">
-        <div class="col-4 p-5 bg-primary text-light">
+        <div class="col-md-4 p-5 bg-primary">
+            {{ range first 2 .Pages }}
+            <article class="{{ .Section}}">
+                <div>
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a> </h2>
+                    <br>
+                    {{ .Summary }}
+                </div>
+                {{ if .Truncated }}
+                <div class="readmore">
+                    <a href="{{ .RelPermalink }}">...</a>
+                </div>
+                {{ end }}
+            </article>
+          {{ end }}
+                
           
         </div>
-        <div class="col-4 p-5 bg-secondary text-light"></div>
-        <div class="col-4 p-5 bg-warning text-light"></div>
+        <div class="col-md-4 p-5 bg-secondary text-light">
+            
+        </div>
+        <div class="col-md-4 p-5 bg-warning text-light"></div>
     </div> 
 {{ end -}}
