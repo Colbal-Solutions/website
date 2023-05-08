@@ -1,6 +1,6 @@
 ---
 title: TEST
-author: TEST
+author: TESTs
 date: 2023-05-08T16:46:09.674Z
 description: TESR
 image: qr-code.png
