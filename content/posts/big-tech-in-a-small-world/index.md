@@ -1,5 +1,6 @@
 ---
 title: Big tech in a small world
+author: Kris Levasseur
 date: 2023-05-08T11:02:39.499Z
 description: Big tech is available for small business, but difficult to find
   exactly the right fit
@@ -7,7 +8,7 @@ image: circle-logo_82x80.png
 ---
 <!--StartFragment-->
 
-Big tech products and services are often designed with enterprise-level clients in mind, making them too expensive and complex for small business owners. Many small businesses may not have the same needs as a large corporation and may find it difficult to justify the high costs associated with these technologies. Additionally, small business owners often lack the necessary technical expertise and resources to fully utilize these tools effectively. 
+Big tech products and services are often designed with enterprise-level clients in mind, making them too expensive and complex for small business owners. Many small businesses may or may not have the same needs as a large corporation and may find it difficult to justify the high costs associated with these technologies. Additionally, small business owners often lack the necessary technical expertise and resources to fully utilize these tools effectively. 
 
 This can lead to an over-reliance on outdated systems or a feeling of being left behind in an increasingly digitized world. Finding affordable and manageable tech solutions that cater to the unique needs of small businesses is therefore crucial for their success.
 
