@@ -1,5 +1,5 @@
 ---
-#menu: main # comment out for Colbal theme
+menu: main # comment out for Colbal theme
 title: Services
 date: 2022-07-26T16:28:41-07:00
 
