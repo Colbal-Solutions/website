@@ -7,4 +7,4 @@ tags:
 weight: 11
 ---
 
-{{< bookings >}}
+{{< calendar >}}
