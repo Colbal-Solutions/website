@@ -2,8 +2,9 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "static/images" # Folder where user uploaded files should go
+logo_url:
 public_folder: "images"
-collections:
+collections: "static/images/circle-logo_111x108.png"
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Knowledge Base" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
@@ -13,9 +14,9 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - {label: "Author", name: "author", widget: "string"}
+      - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "SEO Description", name: "description", widget: "text"}
+      - { label: "SEO Description", name: "description", widget: "text" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
@@ -26,8 +27,8 @@ collections:
         name: "home"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "SEO Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - {
               label: "Section",
               name: "section",
@@ -43,21 +44,21 @@ collections:
         name: "about"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
+          - { label: "SEO Description", name: "description", widget: "text" }
           - { label: "Body", name: "body", widget: "text" }
       - file: "content/contact/_index.md"
         label: "Contact us"
         name: "contact"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
+          - { label: "SEO Description", name: "description", widget: "text" }
           - { label: "Body", name: "body", widget: "text" }
       - file: "content/services/_index.md"
         label: "Services"
         name: "services"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
+          - { label: "SEO Description", name: "description", widget: "text" }
           - {
               label: "Section",
               name: "section",
