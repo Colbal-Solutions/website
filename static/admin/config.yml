@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "static/images" # Folder where user uploaded files should go
+locale: "en"
+site_url: https://www.colbal.com
+display_url: https://www.colbal.com
 logo_url: https://www.colbal.com/images/logo/circle-logo_82x80.png
 public_folder: "images"
 collections:
