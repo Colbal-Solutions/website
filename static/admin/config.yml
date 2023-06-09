@@ -45,7 +45,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "SEO Description", name: "description", widget: "text" }
-          - { label: "Body", name: "body", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "content/contact/_index.md"
         label: "Contact us"
         name: "contact"
