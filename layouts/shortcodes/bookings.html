@@ -21,3 +21,27 @@
   })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
+<br />
+<!-- Google Calendar Appointment Scheduling begin -->
+<link
+  href="https://calendar.google.com/calendar/scheduling-button-script.css"
+  rel="stylesheet"
+/>
+<script
+  src="https://calendar.google.com/calendar/scheduling-button-script.js"
+  async
+></script>
+<script>
+  (function () {
+    var target = document.currentScript;
+    window.addEventListener("load", function () {
+      calendar.schedulingButton.load({
+        url: "https://calendar.google.com/calendar/appointments/schedules/AcZssZ1V0w2QCiYDT-EG4e9Vb-tXbazo9iswddNEbq3pCHgPE_9VLj1CEe68BQV9zQCy1DRjycTeZMh2?gv=true",
+        color: "#039BE5",
+        label: "Book an appointment",
+        target,
+      });
+    });
+  })();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
