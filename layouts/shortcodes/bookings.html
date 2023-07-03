@@ -1,2 +1,23 @@
-
-<iframe src="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUc5UnhwdVBENHd5fGRlZmF1bHR8OWYzMmUzMWRmM2I3OTIxYzUzZTVhYmMyMjZlM2E3MWE" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link
+  href="https://calendar.google.com/calendar/scheduling-button-script.css"
+  rel="stylesheet"
+/>
+<script
+  src="https://calendar.google.com/calendar/scheduling-button-script.js"
+  async
+></script>
+<script>
+  (function () {
+    var target = document.currentScript;
+    window.addEventListener("load", function () {
+      calendar.schedulingButton.load({
+        url: "https://calendar.google.com/calendar/appointments/schedules/AcZssZ18Wqv-EGXNAEg0VFO401HGs483NTUNGgoblvBMC8uFFIj5OdnaXMwpbXQnwZ18y3geee6vx0M1?gv=true",
+        color: "#009688",
+        label: "Consultation",
+        target,
+      });
+    });
+  })();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
