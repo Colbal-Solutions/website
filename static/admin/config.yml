@@ -96,12 +96,12 @@ collections:
             name: params,
             widget: object,
             fields:
-              - {
-              label: Favicon,
-              name: favicon,
-              widget: image,
-              required: false,
-            }
+            - {
+                label: Favicon,
+                name: favicon,
+                widget: image,
+                required: false,
+              }
           }
       
   
