@@ -101,3 +101,10 @@ collections:
                   widget: image,
                   required: false,
                 }
+              - {
+                  label: Site Logo,
+                  name: site_logo,
+                  widget: image,
+                  required: false,
+                }
+              - { label: SEO Description, name: description, widget: text }
