@@ -19,7 +19,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "SEO Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
-  
+
   - name: "pages"
     label: "Pages"
     files:
@@ -73,30 +73,31 @@ collections:
 
   - name: "site_setting" # Used in routes, e.g., /admin/collections/post
     label: "Site Setting" # Used in the UI
-    files: 
+    files:
       - file: "config.yaml"
         label: Site Configuration
-        name: config      
+        name: config
         fields:
           - { label: Site Title for Browser Tab, name: title, widget: string }
           - {
-            label: Google Analytics tracking code,
-            name: googleAnalytics,
-            widget: string,
-            required: false,
-          }
+              label: Google Analytics tracking code,
+              name: googleAnalytics,
+              widget: string,
+              required: false,
+            }
           - {
-            label: Robot Crawler txt,
-            name: enableRobotsTXT,
-            widget: boolean,
-            default: true,
-          }
-          - {
-            label: Site Parameters,
+              label: Robot Crawler txt,
+              name: enableRobotsTXT,
+              widget: boolean,
+              default: true,
+            }
+          - label: Site Parameters,
             name: params,
             widget: object,
             fields:
-            - { label: Favicon, name: favicon, widget: image, required: false, }
-          }
-      
-  
+              - {
+                  label: Favicon,
+                  name: favicon,
+                  widget: image,
+                  required: false,
+                }
