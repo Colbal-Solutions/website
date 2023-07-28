@@ -91,9 +91,9 @@ collections:
               widget: boolean,
               default: true,
             }
-          - label: "Site Parameters",
-            name: "params",
-            widget: "object",
+          - label: "Site Parameters"
+            name: "params"
+            widget: "object"
             fields:
               - {
                   label: Favicon,
