@@ -71,37 +71,37 @@ collections:
                 ],
             }
 
-    - name: "site_setting" # Used in routes, e.g., /admin/collections/post
-      label: "Site Setting" # Used in the UI
-      files: 
-        - file: "config.yaml"
-          label: Site Configuration
-          name: config      
-          fields:
-            - { label: Site Title for Browser Tab, name: title, widget: string }
-            - {
-              label: Google Analytics tracking code,
-              name: googleAnalytics,
-              widget: string,
+  - name: "site_setting" # Used in routes, e.g., /admin/collections/post
+    label: "Site Setting" # Used in the UI
+    files: 
+      - file: "config.yaml"
+        label: Site Configuration
+        name: config      
+        fields:
+          - { label: Site Title for Browser Tab, name: title, widget: string }
+          - {
+            label: Google Analytics tracking code,
+            name: googleAnalytics,
+            widget: string,
+            required: false,
+          }
+          - {
+            label: Robot Crawler txt,
+            name: enableRobotsTXT,
+            widget: boolean,
+            default: true,
+          }
+          - {
+            label: Site Parameters,
+            name: params,
+            widget: object,
+            fields:
+              - {
+              label: Favicon,
+              name: favicon,
+              widget: image,
               required: false,
             }
-            - {
-              label: Robot Crawler txt,
-              name: enableRobotsTXT,
-              widget: boolean,
-              default: true,
-            }
-            - {
-              label: Site Parameters,
-              name: params,
-              widget: object,
-              fields:
-                - {
-                label: Favicon,
-                name: favicon,
-                widget: image,
-                required: false,
-              }
-            }
+          }
       
   
