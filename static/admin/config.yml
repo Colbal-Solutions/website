@@ -108,3 +108,13 @@ collections:
                   required: false,
                 }
               - { label: SEO Description, name: description, widget: text }
+              - {
+                  label: Number of Recent Posts on Home page,
+                  name: recent_posts_number,
+                  widget: number,
+                  default: 3,
+                  value_type: int,
+                  min: 1,
+                  max: 10,
+                  step: 1,
+                }
