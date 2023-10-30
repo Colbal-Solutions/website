@@ -1,5 +1,6 @@
 ---
 title: Open Source vs Close Source
+featured_image: https://img.freepik.com/free-photo/software-development-operations-system-concept_107791-17423.jpg?w=1380&t=st=1698680549~exp=1698681149~hmac=efc5e7e5a3398e16b3da49d9702e502045f8fd9447cbcb0dd70b84c49d992cda
 author: Charles
 date: 2022-07-27T15:46:52-07:00
 description: Reviewing the difference between what open source means vs. close source
