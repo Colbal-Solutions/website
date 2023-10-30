@@ -1,9 +1,12 @@
 ---
-title: "Open Source vs Close Source"
-author: 'Charles'
+title: Open Source vs Close Source
+author: Charles
 date: 2022-07-27T15:46:52-07:00
+description: Reviewing the difference between what open source means vs. close source
 tags:
-
+  - opinion
+  - open-source
+  - close-source
 ---
 
 My take on the situation. 
