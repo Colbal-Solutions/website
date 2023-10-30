@@ -6,7 +6,7 @@ description: "This blog post/feature article addresses the difference between
   high-value content versus low-value content in web design, one of the
   cornerstones of the Information Technology world. "
 banner: web-design-technology-browsing-programming-concept.jpg
-featured_image: web-design-technology-browsing-programming-concept.jpg
+featured_image: https://img.freepik.com/free-photo/web-design-technology-browsing-programming-concept_53876-163260.jpg?w=826&t=st=1698685841~exp=1698686441~hmac=d81e94da1185ff7c4c0312c31ee476b40dd9ea760753c0e24ffb7eacc82c49ff
 tags:
   - diy
   - opinion
