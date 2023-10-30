@@ -3,7 +3,11 @@ title: "Discover the Secret to Launching Your Own Blog on a Budget: Github, Netl
 date: 2023-04-28T10:48:00-07:00
 author: "Charles"
 draft: false
-tags: ["github", "netlify", "hugo", "diy"]
+tags:
+  - github
+  - netlify
+  - hugo
+  - diy
 ---
 
 <h6>
