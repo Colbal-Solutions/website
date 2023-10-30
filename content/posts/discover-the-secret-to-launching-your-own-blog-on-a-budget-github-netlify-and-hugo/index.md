@@ -1,7 +1,7 @@
 ---
 title: "Discover the Secret to Launching Your Own Blog on a Budget: Github,
   Netlify and Hugo"
-featured_image: github-netlify-hugo.png
+featured_image: github-netlify-hugo.webp
 author: Charles
 date: 2023-04-28T10:48:00-07:00
 draft: false
