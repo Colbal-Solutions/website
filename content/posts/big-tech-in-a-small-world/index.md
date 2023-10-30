@@ -1,10 +1,10 @@
 ---
 title: Big tech in a small world
+featured_image: https://img.freepik.com/free-photo/network_181624-28195.jpg?w=826&t=st=1698685609~exp=1698686209~hmac=32192f0cecc8d7f2624a498df9d9477c9a3a6588ad657b37a3591b88565e0583
 author: Kris Levasseur
 date: 2023-05-08T11:02:39.499Z
 description: Big tech is available for small business, but difficult to find
   exactly the right fit
-featured_image: network.jpg
 ---
 
 <!--StartFragment-->
