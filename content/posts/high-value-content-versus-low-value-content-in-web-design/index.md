@@ -9,6 +9,7 @@ banner: web-design-technology-browsing-programming-concept.jpg
 featured_image: web-design-technology-browsing-programming-concept.jpg
 tags:
   - diy
+  - opinion
 ---
 
 
