@@ -7,6 +7,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://colbal.com/bookings/</loc>
+    <lastmod>2023-05-10T16:03:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://colbal.com/contact/</loc>
     <lastmod>2022-07-29T09:17:51-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -27,13 +32,43 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/categories/</loc>
-    <lastmod>2023-04-28T10:48:00-07:00</lastmod>
+    <loc>https://colbal.com/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/</loc>
-    <lastmod>2023-04-28T10:48:00-07:00</lastmod>
+    <loc>https://colbal.com/tags/content-management/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/diy/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/posts/high-value-content-versus-low-value-content-in-web-design/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/opinion/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/web-design/</loc>
+    <lastmod>2023-10-30T15:11:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/posts/big-tech-in-a-small-world/</loc>
+    <lastmod>2023-05-08T11:02:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -42,7 +77,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/categories/stuff/</loc>
+    <loc>https://colbal.com/tags/github/</loc>
+    <lastmod>2023-04-28T10:48:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/hugo/</loc>
+    <lastmod>2023-04-28T10:48:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/tags/netlify/</loc>
     <lastmod>2023-04-28T10:48:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,7 +112,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/categories/mission/</loc>
+    <loc>https://colbal.com/tags/close-source/</loc>
     <lastmod>2022-07-27T15:46:52-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -77,7 +122,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://colbal.com/tags/</loc>
+    <loc>https://colbal.com/tags/open-source/</loc>
+    <lastmod>2022-07-27T15:46:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://colbal.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

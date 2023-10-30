@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>close-source on Colbal | Small Business Technology Consultant  </title>
+    <link>https://colbal.com/tags/close-source/</link>
+    <description>Recent content in close-source on Colbal | Small Business Technology Consultant  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2022 15:46:52 -0700</lastBuildDate><atom:link href="https://colbal.com/tags/close-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source vs Close Source</title>
+      <link>https://colbal.com/posts/open-source-vs-close-source/</link>
+      <pubDate>Wed, 27 Jul 2022 15:46:52 -0700</pubDate>
+      
+      <guid>https://colbal.com/posts/open-source-vs-close-source/</guid>
+      <description>My take on the situation.
+First, to ensure we are all on the same foot, lets define Open Source and Close Source.
+Open Source is some product, whether that is software or hardware, that is made available with the full possibility or intention for the user to make changes.
+Close Source, also called proprietary, is some product, whether that is software or hardware, in which any modification or changes can been seen illegal and can be subject to legal action.</description>
+    </item>
+    
+  </channel>
+</rss>

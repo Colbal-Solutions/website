@@ -1,22 +1,32 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: "static/images" # Folder where user uploaded files should go
-public_folder: "images"
+media_folder: "public/images" # Folder where user uploaded files should go
+locale: "en"
+site_url: https://www.colbal.com
+display_url: https://www.colbal.com
+logo_url: https://www.colbal.com/images/logo/circle-logo_82x80.png
+public_folder: "images/"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
-    label: "Articles" # Used in the UI
+    label: "Knowledge Base" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
-    media_folder: "" # Save images in the post's own folder instead of the static folder
-    public_folder: ""
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "featured_image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "SEO Description", name: "description", widget: "text"}
-      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "SEO Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+
   - name: "pages"
     label: "Pages"
     files:
@@ -25,15 +35,15 @@ collections:
         name: "home"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "SEO Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - {
               label: "Section",
               name: "section",
               widget: "object",
               fields:
                 [
-                  { label: "Heading", name: "heading", widget: string },
+                  { label: "Heading", name: "heading", widget: "string" },
                   { label: "Text", name: "text", widget: "text" },
                 ],
             }
@@ -42,21 +52,21 @@ collections:
         name: "about"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
-          - { label: "Body", name: "body", widget: "text" }
+          - { label: "SEO Description", name: "description", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "content/contact/_index.md"
         label: "Contact us"
         name: "contact"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
+          - { label: "SEO Description", name: "description", widget: "text" }
           - { label: "Body", name: "body", widget: "text" }
       - file: "content/services/_index.md"
         label: "Services"
         name: "services"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "SEO Description", name: "description", widget: "text"}
+          - { label: "SEO Description", name: "description", widget: "text" }
           - {
               label: "Section",
               name: "section",
@@ -67,3 +77,51 @@ collections:
                   { label: "Text", name: "text", widget: "text" },
                 ],
             }
+
+  - name: "site_setting" # Used in routes, e.g., /admin/collections/post
+    label: "Site Setting" # Used in the UI
+    files:
+      - file: "config.yaml"
+        label: Site Configuration
+        name: config
+        fields:
+          - { label: Site Title for Browser Tab, name: title, widget: string }
+          - {
+              label: Google Analytics tracking code,
+              name: googleAnalytics,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Robot Crawler txt,
+              name: enableRobotsTXT,
+              widget: boolean,
+              default: true,
+            }
+          - label: "Site Parameters"
+            name: "params"
+            widget: "object"
+            fields:
+              - {
+                  label: Favicon,
+                  name: favicon,
+                  widget: image,
+                  required: false,
+                }
+              - {
+                  label: Site Logo,
+                  name: site_logo,
+                  widget: image,
+                  required: false,
+                }
+              - { label: SEO Description, name: description, widget: text }
+              - {
+                  label: Number of Recent Posts on Home page,
+                  name: recent_posts_number,
+                  widget: number,
+                  default: 3,
+                  value_type: int,
+                  min: 1,
+                  max: 10,
+                  step: 1,
+                }
