@@ -4,8 +4,7 @@ author: Kris Levasseur
 date: 2023-05-08T11:02:39.499Z
 description: Big tech is available for small business, but difficult to find
   exactly the right fit
-image: circle-logo_82x80.png
-banner: network.jpg
+featured_image: network.jpg
 ---
 
 <!--StartFragment-->
