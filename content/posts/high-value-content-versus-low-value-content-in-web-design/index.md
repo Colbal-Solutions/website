@@ -19,7 +19,7 @@ In the world of web design, the importance of creating high value content cannot
 
 
 
-### The key characteristics Google is looking for from high-value content are: 
+## The key characteristics Google is looking for from high-value content are: 
 
 **Relevance:** Content that delivers what users are looking for.
 
