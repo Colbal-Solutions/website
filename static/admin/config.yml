@@ -6,7 +6,7 @@ locale: "en"
 site_url: https://www.colbal.com
 display_url: https://www.colbal.com
 logo_url: https://www.colbal.com/images/logo/circle-logo_82x80.png
-public_folder: "images"
+public_folder: "images/"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Knowledge Base" # Used in the UI
