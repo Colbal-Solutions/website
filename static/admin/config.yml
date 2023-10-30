@@ -22,7 +22,7 @@ collections:
       - {
           label: "Featured Image",
           name: "banner",
-          widget: image,
+          widget: "image",
           required: false,
         }
 
