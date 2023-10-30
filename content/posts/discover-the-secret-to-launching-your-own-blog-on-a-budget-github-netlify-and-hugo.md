@@ -1,11 +1,11 @@
 ---
 title: "Discover the Secret to Launching Your Own Blog on a Budget: Github, Netlify and Hugo"
 date: 2023-04-28T10:48:00-07:00
-author: 'Charles'
+author: "Charles"
 draft: false
-tags: 
-
+tags: ["github", "netlify", "hugo", "diy"]
 ---
+
 <h6>
 
 [1. Introduction](#1-introduction)
@@ -26,7 +26,7 @@ Github, Hugo and Netlify are powerful platforms that work hand in hand to help d
 
 ## Overview of the cost to host a blog on Netlify using Hugo
 
-As a small business, it is important to understand the cost associated with hosting a blog using Github, Hugo and Netlify. The good news is that all three are mostly free. 
+As a small business, it is important to understand the cost associated with hosting a blog using Github, Hugo and Netlify. The good news is that all three are mostly free.
 Netlify’s hosting service for static websites without much traffic, which means that you can easily host your Hugo blog without incurring any hosting costs. However, there may be additional costs associated with custom domain names, SSL certificates, and other features that you might require to enhance the functionality and security of your blog. Overall, the cost of hosting a blog on Netlify using Hugo is relatively low compared to other hosting services, making it a popular choice among bloggers and web developers.
 
 # 2. The Details
@@ -42,7 +42,7 @@ Up to now, I haven’t said a lot about Hugo. That is because there is a lot and
 ## What is Netlify?
 
 Netlify is a web development platform that provides an all-in-one solution for building, deploying, and managing modern web applications. It allows developers to create and host websites and applications quickly and easily without worrying about infrastructure management. Netlify provides a range of features such as continuous deployment, version control, and custom domain management. Additionally, it offers a comprehensive web development ecosystem that includes static site generators, content management systems, and other web development tools. Netlify simplifies the entire web development process, enabling developers to focus on building great user experiences.
-For our purposes we only scratch the surface of what Netlify can. In this article I will focus on Netlify’s hosting functionality. All of Netlify’s other capabilities will be left up to you to explore and implement.  
+For our purposes we only scratch the surface of what Netlify can. In this article I will focus on Netlify’s hosting functionality. All of Netlify’s other capabilities will be left up to you to explore and implement.
 
 # 3. Implementing
 
@@ -61,12 +61,11 @@ One of the biggest benefits of hosting a blog on Netlify with Hugo is the incred
 # 4. Conclusion
 
 ## Recap of cost and benefits of hosting a Hugo blog on Netlify
- 
+
 Hosting a Hugo blog on Netlify with Github as the code repository has many benefits, such as speed, security, and scalability. One of the biggest advantages is that it's free for basic usage, which includes custom domains, HTTPS, and a CDN. Upgrading to a paid plan offers even more features like form handling and serverless functions. Netlify also offers easy deployment through Git or drag and drop, which speeds up the website building process. In terms of costs, there may be some associated with hiring a developer to set up and customize the website. Overall, the benefits of hosting far outweigh the costs, making it an excellent choice for bloggers looking to launch a fast and secure website.
 
 ## Final Thoughts and Recommendations
 
-Maintaining a consistent and engaging blog can be challenging, but it's worth the effort. Remember to stay true to your brand's tone and voice and provide value for your readers. It's crucial to research and understand your audience's needs and preferences to deliver content that resonates with them. Additionally, don't forget to promote your blog through social media, email marketing, and any other relevant channels to ensure it reaches as many people as possible. 
+Maintaining a consistent and engaging blog can be challenging, but it's worth the effort. Remember to stay true to your brand's tone and voice and provide value for your readers. It's crucial to research and understand your audience's needs and preferences to deliver content that resonates with them. Additionally, don't forget to promote your blog through social media, email marketing, and any other relevant channels to ensure it reaches as many people as possible.
 Lastly, stay consistent with your posting schedule to build a loyal readership and establish your blog as a go-to source for your niche. By implementing these tips, you'll be on your way to creating a successful blog that drives traffic, increases awareness, and helps achieve your business goals.
 If you're looking for a better way to host your blog, look no further than Github, Netlify and Hugo. With the ease of use and powerful features, Netlify is the perfect platform for bloggers of all levels. Plus, with its excellent support and community of fellow users, you'll never have to worry about getting stuck on any technical issues. So why wait? Give it all a try today. And if you would like some one on one help navigating it all, Colbal is here to help.
-
