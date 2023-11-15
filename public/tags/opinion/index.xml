@@ -6,27 +6,24 @@
     <description>Recent content in opinion on Colbal | Small Business Technology Consultant  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2023 15:11:50 +0000</lastBuildDate><atom:link href="https://colbal.com/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 15:11:50 +0000</lastBuildDate>
+    <atom:link href="https://colbal.com/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>High-value content versus low-value content in web design</title>
       <link>https://colbal.com/posts/high-value-content-versus-low-value-content-in-web-design/</link>
       <pubDate>Mon, 30 Oct 2023 15:11:50 +0000</pubDate>
-      
       <guid>https://colbal.com/posts/high-value-content-versus-low-value-content-in-web-design/</guid>
       <description>In the world of web design, the importance of creating high value content cannot be overstated. High value content not only engages and captivates visitors, but also contributes to building credibility and trust with the audience. It focuses on providing informative, relevant, and valuable information that meets the needs and interests of the target demographic. On the other hand, low value content can be detrimental to a website&amp;rsquo;s reputation and visibility.</description>
     </item>
-    
     <item>
       <title>Open Source vs Close Source</title>
       <link>https://colbal.com/posts/open-source-vs-close-source/</link>
       <pubDate>Wed, 27 Jul 2022 15:46:52 -0700</pubDate>
-      
       <guid>https://colbal.com/posts/open-source-vs-close-source/</guid>
       <description>My take on the situation.
 First, to ensure we are all on the same foot, lets define Open Source and Close Source.
 Open Source is some product, whether that is software or hardware, that is made available with the full possibility or intention for the user to make changes.
 Close Source, also called proprietary, is some product, whether that is software or hardware, in which any modification or changes can been seen illegal and can be subject to legal action.</description>
     </item>
-    
   </channel>
 </rss>

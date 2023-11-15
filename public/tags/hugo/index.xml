@@ -6,12 +6,12 @@
     <description>Recent content in hugo on Colbal | Small Business Technology Consultant  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2023 10:48:00 -0700</lastBuildDate><atom:link href="https://colbal.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 10:48:00 -0700</lastBuildDate>
+    <atom:link href="https://colbal.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover the Secret to Launching Your Own Blog on a Budget: Github, Netlify and Hugo</title>
       <link>https://colbal.com/posts/discover-the-secret-to-launching-your-own-blog-on-a-budget-github-netlify-and-hugo/</link>
       <pubDate>Fri, 28 Apr 2023 10:48:00 -0700</pubDate>
-      
       <guid>https://colbal.com/posts/discover-the-secret-to-launching-your-own-blog-on-a-budget-github-netlify-and-hugo/</guid>
       <description>1. Introduction
 2. The Details
@@ -19,6 +19,5 @@
 4. Conclusion, TLDR
 1. Introduction The tech, an explanation of Github, Hugo and Netlify Github, Hugo and Netlify are powerful platforms that work hand in hand to help developers easily create and deploy static websites. In a nutshell, Github is a code repository platform that developers use to collaborate, Hugo is a static site generator, and Netlify is a cloud-based hosting platform. With Netlify, developers can quickly and easily deploy their Hugo-generated sites to a global content delivery network with just a few clicks.</description>
     </item>
-    
   </channel>
 </rss>
