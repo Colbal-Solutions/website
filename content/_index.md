@@ -6,3 +6,5 @@ description: "Welcome to Colbal. We are your technology consults. Providing tech
 theme_version: "2.8.2"
 layout: "home"
 ---
+
+{{< home-service-tiles >}}
