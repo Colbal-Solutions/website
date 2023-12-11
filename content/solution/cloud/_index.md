@@ -7,11 +7,6 @@
 
 title: Cloud Migration
 date: 2023-04-24T09:34:48-07:00
-type: page
-menu:
-  main:
-    parent: Services
-    weight: 3
 ---
 
 ![cloud-migration](/services/cloud-migration/cloud-migration.png)

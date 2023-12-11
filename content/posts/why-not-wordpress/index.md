@@ -16,4 +16,5 @@ description: Why not WordPress, they say. As the most popular content management
   instead, dive into exploring other CMS options that might better align with
   your objectives and requirements.
 ---
-W﻿hy not Wordpress
+
+Article coming soon

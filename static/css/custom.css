@@ -25,3 +25,35 @@ article {
 .service-container:hover {
   background: #d4e0fa;
 }
+
+.bar {
+  background: var(--primary-accent);
+  height: 150px;
+  text-align: center;
+}
+.bar.mask {
+  width: 100%;
+  height: 100%;
+  background: var(--primary-accent);
+  opacity: 1;
+}
+
+.bar.background-web-image {
+  background: url("../images/web-design-graphic.jpg") center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bar.background-image {
+  background: url("../images/hero/techBG.jpeg") center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.on-image {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  padding-top: 2em;
+}
+.service-blurb {
+  height: 150px;
+  overflow: hidden;
+}

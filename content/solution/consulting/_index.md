@@ -7,6 +7,7 @@
 
 title: IT Consulting
 date: 2023-04-24T09:34:48-07:00
+layout: services
 ---
 
 ![consulting](/services/consulting/consulting-graphic.jpg)

@@ -2,6 +2,7 @@ baseURL: "https://www.colbal.com/"
 languageCode: en-us
 title: "Colbal | Small Business Technology Consultant  "
 theme: "ananke"
+
 #theme: 'colbal'
 
 ### start comment out for 'ananke' theme
@@ -39,6 +40,16 @@ sitemap:
   filename: "sitemap.xml"
 
 params:
+  address1: "Chandler, AZ"
+  address2: "New Hampshire"
+  email: "contact-us@colbal.com"
+  phone: "+6038510727"
+  tip_article:
+    link: "/posts/why-not-wordpress"
+    title: "Why not Wordpress?"
+  hugo_tips_playlist:
+    link: "https://youtube.com/playlist?list=PLWRhfI3EDQ8DmUvR7evCoGfBpnT368IXu&si=gjuUQHRu3LX8CYED"
+    title: ""
   text_color: ""
   author: ""
   favicon: "/images/favicon/favicon.ico"
