@@ -278,7 +278,7 @@ Once a business receives your request, they are no longer allowed to use or disc
 
 Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.
 
-To exercise your right to limit use and disclosure of sensitive personal information, please email contact-us@colbal.com or visit:http://www.colbal.com/contact.
+To exercise your right to limit use and disclosure of sensitive personal information, please email contact-us@colbal.com or visit: http://www.colbal.com/contact.
 
 Verification process
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. , phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
