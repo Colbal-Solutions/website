@@ -8,12 +8,14 @@ description: "Why not WordPress, they say. As the most popular content
   that make it a go-to choice for many. Its user-friendly interface, extensive
   theme and plugin library, and strong community support have established it as
   a reliable option for website creation. "
+toc: true
 tags:
   - wordpress
   - alternatives
   - CMS
   - content management system
 ---
+
 It's worth considering other alternatives to WordPress, especially if you are seeking a more specialized solution tailored to your specific needs. Whether it's a need for a robust ecommerce platform, a desire for more advanced customization options, or a focus on performance and security, exploring alternatives can help you find the perfect fit for your project. So, don't limit yourself to what's popular; instead, dive into exploring other CMS options that might better align with your objectives and requirements.
 
-O﻿kay, now that we are through the first paragraph, which sets the stage for search engine optimization or SEO, I have to placate to the SEO god, Google, and tell you what I am going to tell you. I apologize for this tactic, it's how the internet works unfortunately. I will add a table of contents so you can skip through the article. 
+O﻿kay, now that we are through the first paragraph, which sets the stage for search engine optimization or SEO, I have to placate to the SEO god, Google, and tell you what I am going to tell you. I apologize for this tactic, it's how the internet works unfortunately. I will add a table of contents so you can skip through the article.
