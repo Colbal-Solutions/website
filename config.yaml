@@ -40,6 +40,8 @@ sitemap:
   filename: "sitemap.xml"
 
 params:
+  mainSections:
+    - posts
   address1: "Chandler, AZ"
   address2: "New Hampshire"
   email: "contact-us@colbal.com"
