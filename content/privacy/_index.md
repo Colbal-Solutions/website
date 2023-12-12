@@ -24,7 +24,7 @@ How do we process your information? We process your information to provide, impr
 
 In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
 
-How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
 
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
@@ -148,7 +148,7 @@ When we have no ongoing legitimate business need to process your personal inform
 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
    In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
-We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
 9. DO WE COLLECT INFORMATION FROM MINORS?
    In Short: We do not knowingly collect data from or market to children under 18 years of age.
@@ -190,7 +190,7 @@ C. Protected classification characteristics under state or federal law Gender an
 D. Commercial information Transaction information, purchase history, financial details, and payment information No
 E. Biometric information Fingerprints and voiceprints No
 F. Internet or other similar network activity Browsing history, search history, online behavior , interest data, and interactions with our and other websites, applications, systems, and advertisements No
-G. Geolocation data Device location No
+G. Geo-location data Device location No
 H. Audio, electronic, visual, thermal, olfactory, or similar information Images and audio, video or call recordings created in connection with our business activities No
 I. Professional or employment-related information Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us No
 J. Education Information Student records and directory information No
@@ -267,7 +267,7 @@ If the business collects any of the following:
 social security information, drivers’ licenses, state ID cards, passport numbers
 account login information
 credit card numbers, financial account information, or credentials allowing access to such accounts
-precise geolocation
+precise geo-location
 racial or ethnic origin, religious or philosophical beliefs, union membership
 the contents of email and text, unless the business is the intended recipient of the communication
 genetic data, biometric data, and health data
