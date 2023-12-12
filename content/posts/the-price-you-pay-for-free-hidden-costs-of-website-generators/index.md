@@ -1,5 +1,6 @@
 ---
 title: "The Price You Pay for Free: Hidden Costs of Website Generators"
+featured_image: https://img.freepik.com/premium-psd/free-red-stamp_371314-16.jpg?w=1060
 author: Charles
 date: 2023-12-12T23:32:17.186Z
 description: The hidden cost of free website builders is often overlooked by
