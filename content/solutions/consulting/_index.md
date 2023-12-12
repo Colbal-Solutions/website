@@ -7,10 +7,11 @@
 
 title: IT Consulting
 date: 2023-04-24T09:34:48-07:00
-layout: services
 ---
 
-![consulting](/services/consulting/consulting-graphic.jpg)
+<!--
+![consulting](/images/consulting-graphic.jpg)
+
 
 # Consulting
 
@@ -31,3 +32,4 @@ We understand that each business has unique needs, and require a reliable and ef
 ## Custom Software
 
 As companies become more reliant on technology, it's becoming increasingly important to have custom software that caters to their specific needs. Developing custom software can help your businesses streamline operations, reduce costs, and improve productivity. We works closely with our clients to understand their needs, and then design and develops software that meets those needs perfectly. By opting for custom software, businesses can be sure that they are getting a solution that is specifically designed to address their pain points and help them achieve their goals.
+-->
