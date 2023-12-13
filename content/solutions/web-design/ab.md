@@ -3,8 +3,6 @@ title: "A/B Testing"
 summary: ""
 ---
 
-A/B Testing
-
 # Stop Guessing, Start Testing: A/B Testing for Website Design that Wins
 Is your website a conversion powerhouse, or a lead-generating black hole? You might be pouring time and effort into design elements you think are effective, but without data-driven insights, you're just playing a guessing game. That's where A/B testing comes in, your secret weapon for unlocking website optimization gold.
 
