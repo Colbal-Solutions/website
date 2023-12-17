@@ -9,12 +9,13 @@ That's where our comprehensive technology research comes in, your trusty Sherpa 
 
 ### Stop spinning your wheels in tech limbo. Our research empowers you to:
 
-## Make informed decisions: 
+### Make informed decisions: 
 Invest in the right technology, avoiding costly mistakes and wasted resources.
 
-## Boost efficiency and productivity: 
+### Boost efficiency and productivity: 
 Leverage cutting-edge tools to streamline workflows and free up your team for what they do best.
 
-## Gain a competitive edge: 
+### Gain a competitive edge: 
 Stay ahead of the curve with knowledge of the latest advancements and disruptive technologies.
-Don't let the tech wilderness hold you back. Let our research be your map and compass, guiding you towards a future of technological mastery. Partner with us today and conquer the tech frontier with confidence and clarity.
+
+Don't let the tech wilderness hold you back. Let our research be your map and compass, guiding you towards a future of technological mastery. [Partner with us today and conquer the tech frontier with confidence and clarity!](https://www.colbal.com/bookings/)

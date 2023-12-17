@@ -14,4 +14,4 @@ It intercepts every incoming email, meticulously scrutinizing it for hidden dang
 
 But the benefits go beyond just blocking bad guys. ESGs also boost productivity by filtering out spam and clutter, streamlining workflows for your team. Plus, robust reporting and data insights give you valuable ammunition to combat future threats and fine-tune your email security posture.
 
-Don't let fear of email threats cast a shadow over your website's brilliance. Invest in an ESG and watch your inbox transform from a potential vulnerability to a shining asset of trust and security. Contact us today and discover how we can build your email fortress, brick by digital brick.
+Don't let fear of email threats cast a shadow over your website's brilliance. Invest in an ESG and watch your inbox transform from a potential vulnerability to a shining asset of trust and security. [Contact us today and discover how we can build your email fortress, brick by digital brick!](https://www.colbal.com/bookings/) 
