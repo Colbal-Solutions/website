@@ -51,3 +51,21 @@ article {
   padding-top: 2em;
   padding-bottom: 2em;
 }
+@media (max-width: 820px) {
+  .menu {
+    display: none;
+  }
+}
+
+#burger:checked ~ .menu {
+  display: block;
+}
+
+li a:hover,
+li a:target {
+  color: #4bc0a9;
+}
+
+li a:hover span {
+  color: black;
+}
