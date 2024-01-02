@@ -4,9 +4,9 @@
     {{ .Content }}
   </article>
 <!-- ads -->
-  <section class="dib v-mid">
-    {{ partial "ad-multi-responsive.html" . }}
-  </section>
+  <iframe style="text-align:center" src="{{ partial "ad-multi-responsive.html" . }}">
+    
+  </iframe>
 <!-- end of ads -->
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
