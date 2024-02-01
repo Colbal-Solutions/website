@@ -1,0 +1,23 @@
+<header
+  class="bg-center"
+  style="
+    background-image: url('/images/bg.svg'),
+      linear-gradient(to right, #060733, #2586b5);
+    background-repeat: repeat;
+  "
+>
+  <div class="bg-black-10">
+    {{ partial "site-navigation.html" .}}
+    <div class="tc-l pv4 ph3 ph4-ns">
+      <h1 class="f2 f-subheadline-l fw2 white-90 mb0 mt0 lh-title">
+        {{ .Title | default .Site.Title }}
+      </h1>
+
+      {{ with .Params.description }}
+      <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+        {{ . }}
+      </h2>
+      {{ end }}
+    </div>
+  </div>
+</header>
