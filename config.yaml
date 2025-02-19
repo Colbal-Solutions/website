@@ -1,62 +1,33 @@
-baseURL: "https://www.colbal.com/"
-languageCode: en-us
-title: "Colbal | Small Business Technology Consultant  "
-theme: "ananke"
-
-#theme: 'colbal'
-
-### start comment out for 'ananke' theme
-
-# menu:
-#   main:
-#   - identifier: services
-#     name: Services
-#     pageRef: /services
-#     weight: 10
-#   - name: Contact us
-#     pageRef: /contact
-#     weight: 20
-#   - name: Knowledge Base
-#     pageRef: /posts
-#     weight: 30
-#   - name: About
-#     pageRef: /about
-#     weight: 40
-#   - name: FAQ
-#     pageRef: /faq
-#     weight: 50
-
-### end comment out
-
-DefaultContentLanguage: "en"
-# sectionPagesMenu: main
-# Paginate: 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics: ""
 enableRobotsTXT: true
-
-sitemap:
-  changefreq: "monthly"
-  priority: 0.5
-  filename: "sitemap.xml"
-
+languageCode: en-us
 params:
+  site_logo: /images/logo/circle_blue_logo.svg
   mainSections:
     - posts
-  address1: "Chandler, AZ"
-  address2: "New Hampshire"
-  email: "contact-us@colbal.com"
+  background_color_class: bg-navy
+  author: ""
   phone: "+6038510727"
-  tip_article:
-    link: "/posts/why-not-wordpress"
-    title: "Why not Wordpress?"
   hugo_tips_playlist:
-    link: "https://youtube.com/playlist?list=PLWRhfI3EDQ8DmUvR7evCoGfBpnT368IXu&si=gjuUQHRu3LX8CYED"
+    link: https://youtube.com/playlist?list=PLWRhfI3EDQ8DmUvR7evCoGfBpnT368IXu&si=gjuUQHRu3LX8CYED
     title: ""
   text_color: ""
-  author: ""
-  favicon: "/images/favicon/favicon.ico"
-  site_logo: "/images/logo/circle_blue_logo.svg"
-  description: "Providing technology consulting to new and existing small businesses through web design, software improvements, data management and information security. "
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class: "bg-navy"
+  tip_article:
+    link: /posts/why-not-wordpress
+    title: Why not Wordpress?
+  favicon: images/circle_blue_logo.svg
   recent_posts_number: 3
+  email: contact-us@colbal.com
+  description: "Providing technology consulting to new and existing small
+    businesses through web design, software improvements, data management and
+    information security. "
+  address1: Chandler, AZ
+  address2: New Hampshire
+theme: ananke
+googleAnalytics: ""
+DefaultContentLanguage: en
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+title: "Colbal | Small Business Technology Consultant  "
+baseURL: https://www.colbal.com/
